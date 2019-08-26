@@ -9,3 +9,4 @@ cp $mydir/.vimrc ~/.vimrc
 # bash configuration
 cat $mydir/.bashrc >> ~/.bashrc
 
+
